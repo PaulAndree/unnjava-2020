@@ -1,7 +1,6 @@
 # Themes
 
 Mostly based on "Java. The Complete Reference. 11 Edition" by Herbert Schildt.
-
 Some items are ~~striked~~ which means they meant to be skipped during this course.
 
 ## 1 Language
